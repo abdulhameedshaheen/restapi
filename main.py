@@ -18,5 +18,4 @@ def about(station, date):
             "temperature": temperature}
 
 
-if __name__ == "__name__":
-    app.run(debug=True)
+app.run(debug=True)
